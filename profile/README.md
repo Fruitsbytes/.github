@@ -1,20 +1,24 @@
 Hi, I am Jeffrey N. Carré
 
-<small>
+<p>
 
 `Lead Software Dev`
 `FullStack`
 `FrontEnd`
-`Gamer`
-`Haitian`
-`Wireless Network technicien and Trainer`
-`Graphic Designer`
 `Freelancer`
 
-</small>
+</p>
+
+<p>
+
+`Gamer`
+`Wireless Network technicien and Trainer`
+`Graphic Designer`
+
+</p>
 
 
-![FruitsBytes](https://www.fruitsbytes.com/assets/images/logo.png)
+![FruitsBytes](./githubBannerFruitsbytes.png)
 
 
 <div align='center'>
