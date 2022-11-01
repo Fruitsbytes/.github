@@ -18,7 +18,7 @@ Hi, I am Jeffrey N. Carré
 </p>
 
 
-![FruitsBytes](./githubBannerFruitsbytes.png?v=2)
+![FruitsBytes](https://github.com/Fruitsbytes/.github/blob/main/profile/githubBannerFruitsbytes.png)
 
 
 <div align='center'>
