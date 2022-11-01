@@ -23,7 +23,7 @@ Hi, I am Jeffrey N. Carré
 
 <div align='center'>
 
-[Github](https://github.com/Fruitsbytes) • 
+[Website](https://www.fruitsbytes.com/) • 
 [LinkedIn](https://www.linkedin.com/in/jeffrey-nicholson-carre/) • 
 [Stack Overflow]() •
 [PluralSite]() •
